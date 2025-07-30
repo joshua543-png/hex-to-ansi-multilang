@@ -113,3 +113,8 @@ MIT License — free to use, modify, and share.
 ## 💬 Contributing
 
 Want to add another language or improve an implementation? Pull requests welcome!
+
+## Discord
+
+https://discord.gg/MtjxDCcR
+This discord server is for questions and concerns
